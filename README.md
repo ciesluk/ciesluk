@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciesluk, my name is Tom!
 - 👀 I’m interested in reading and video games.
-- 🌱 I’m currently learning Mobile App Development and C#. 
+- 🌱 I’m currently learning React. 
 - 📫 How to reach me-> tomcieslukowski1@outlook.com
 
 <!---
