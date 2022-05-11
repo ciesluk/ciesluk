@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciesluk, my name is Tom!
-- 👀 I’m interested in reading and video games.
-- 🌱 I’m currently learning React. 
+- 👀 I’m interested in reading and taking long walks around the city. 
+- 🌱 I’m currently taking a web development bootcamp as a fresher and to learn new technologies and skills.  
 - 📫 How to reach me-> tomcieslukowski1@outlook.com
 
 <!---
