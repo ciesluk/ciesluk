@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ciesluk, my name is Tom!
 - 👀 I’m interested in reading and taking long walks around the city. 
 - 🌱 I’m currently taking a web development bootcamp as a fresher and to learn new technologies and skills.  
-- 💼 I currently work as a Junior Web Designer 
+- 💼 I currently work as a Junior Web Designer.
 - 📫 How to reach me-> <a href="mailto:tomcieslukowski1@outlook.com">tomcieslukowski1@outlook.com</a>
 - 🌐 My Portfolio: <a href="https://tom-cieslukowski-portfolio.herokuapp.com"> Tom Cieslukowski </a>
 
