@@ -1,7 +1,7 @@
 # A Little Bit About Me
 - 👋 Hi, I’m @ciesluk, my name is Tom!
 - 👀 I’m interested in reading and taking long walks around the city. 
-- 🌱 I’m currently learning Advanced JavaScript and React 
+- 🌱 I’m currently learning Intermediate and Advanced JavaScript and React 
 - 💼 I currently work as a Junior Web Designer.
 - 📫 How to reach me-> <a href="mailto:tomcieslukowski1@outlook.com">tomcieslukowski1@outlook.com</a>
 - 🌐 My Portfolio: <a href="https://www.tomcieslukowski.com/"> Tom Cieslukowski </a>
